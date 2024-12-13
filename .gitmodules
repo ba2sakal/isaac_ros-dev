@@ -5,6 +5,6 @@
 	path = zed-ros2-wrapper
 	url = https://github.com/stereolabs/zed-ros2-wrapper
 [submodule "zed-ros2-examples"]
-path = zed-ros2-wrapper
-url = https://github.com/ba2sakal/zed-ros2-examples
+	path = zed-ros2-wrapper
+	url = https://github.com/ba2sakal/zed-ros2-examples
 
